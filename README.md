@@ -422,3 +422,7 @@ minecraft-server  | [2023-05-17 03:03:17:629 INFO] =============================
 狙い目は AWS ECS かな
 
 まずは手動で上げて、のちに CDK に移行しようかな
+
+メモ
+
+https://qiita.com/kerorinfather/items/7b270a80f355e5f75e5e
